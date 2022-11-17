@@ -328,4 +328,5 @@ CMakeFiles/sfml_platformer.dir/src/levelLoader/levelLoader.cpp.o: \
  /home/jesse/Programming/sfml_platformer/src/levelLoader/../entities/../physics/physicsWorld.hpp \
  /home/jesse/Programming/sfml_platformer/src/levelLoader/../entities/../physics/physicsobject.hpp \
  /home/jesse/Programming/sfml_platformer/src/levelLoader/../entities/../camera/camera.hpp \
+ /home/jesse/Programming/sfml_platformer/src/levelLoader/../entities/moveableWall.hpp \
  /home/jesse/Programming/sfml_platformer/src/levelLoader/../entities/ball.hpp

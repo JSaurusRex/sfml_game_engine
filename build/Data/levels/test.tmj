@@ -22,8 +22,8 @@
                  "rotation":0,
                  "visible":true,
                  "width":84.625356494685,
-                 "x":-24.8898107337309,
-                 "y":-34.8457350272232
+                 "x":-19.9118485869847,
+                 "y":24.8898107337309
                 }, 
                 {
                  "class":"Wall",
@@ -44,8 +44,8 @@
                  "rotation":0,
                  "visible":true,
                  "width":112.004148301789,
-                 "x":704.381643764584,
-                 "y":4.97796214674612
+                 "x":719.315530204822,
+                 "y":27.3787918071039
                 }, 
                 {
                  "class":"Wall",
@@ -69,6 +69,17 @@
                  "width":0,
                  "x":283.743842364532,
                  "y":253.876069484055
+                }, 
+                {
+                 "class":"MoveableWall",
+                 "height":94.5812807881774,
+                 "id":22,
+                 "name":"",
+                 "rotation":0,
+                 "visible":true,
+                 "width":161.783769769251,
+                 "x":338.50142597874,
+                 "y":256.365050557428
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -77,7 +88,7 @@
          "y":0
         }],
  "nextlayerid":3,
- "nextobjectid":22,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.9.2",

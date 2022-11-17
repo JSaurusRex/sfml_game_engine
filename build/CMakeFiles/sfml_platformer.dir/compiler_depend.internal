@@ -996,6 +996,7 @@ CMakeFiles/sfml_platformer.dir/src/levelLoader/levelLoader.cpp.o
  /home/jesse/Programming/sfml_platformer/src/physics/physicsWorld.hpp
  /home/jesse/Programming/sfml_platformer/src/physics/physicsobject.hpp
  /home/jesse/Programming/sfml_platformer/src/camera/camera.hpp
+ /home/jesse/Programming/sfml_platformer/src/entities/moveableWall.hpp
  /home/jesse/Programming/sfml_platformer/src/entities/ball.hpp
 
 CMakeFiles/sfml_platformer.dir/src/main.cpp.o

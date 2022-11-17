@@ -993,6 +993,7 @@ CMakeFiles/sfml_platformer.dir/src/levelLoader/levelLoader.cpp.o: /home/jesse/Pr
   /home/jesse/Programming/sfml_platformer/src/physics/physicsWorld.hpp \
   /home/jesse/Programming/sfml_platformer/src/physics/physicsobject.hpp \
   /home/jesse/Programming/sfml_platformer/src/camera/camera.hpp \
+  /home/jesse/Programming/sfml_platformer/src/entities/moveableWall.hpp \
   /home/jesse/Programming/sfml_platformer/src/entities/ball.hpp
 
 CMakeFiles/sfml_platformer.dir/src/main.cpp.o: /home/jesse/Programming/sfml_platformer/src/main.cpp \
@@ -1952,6 +1953,8 @@ CMakeFiles/sfml_platformer.dir/src/player/player.cpp.o: /home/jesse/Programming/
 /home/jesse/Programming/sfml_platformer/src/main.cpp:
 
 /home/jesse/Programming/sfml_platformer/src/entities/ball.hpp:
+
+/home/jesse/Programming/sfml_platformer/src/entities/moveableWall.hpp:
 
 /usr/include/c++/12.2.0/iomanip:
 
