@@ -15,7 +15,7 @@ class MoveableWall : public Entity
     sf::RectangleShape shape;
 
     public:
-
+ 
     MoveableWall(sf::Vector2f pos, sf::Vector2f size) : Entity(), shape(size),
         physics(pos, size, 0, 0.2)
     {
