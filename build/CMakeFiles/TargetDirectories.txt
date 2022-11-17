@@ -1,0 +1,5 @@
+/home/jesse/Programming/sfml_platformer/build/CMakeFiles/sfml_platformer.dir
+/home/jesse/Programming/sfml_platformer/build/CMakeFiles/edit_cache.dir
+/home/jesse/Programming/sfml_platformer/build/CMakeFiles/rebuild_cache.dir
+/home/jesse/Programming/sfml_platformer/build/submodules/json/CMakeFiles/edit_cache.dir
+/home/jesse/Programming/sfml_platformer/build/submodules/json/CMakeFiles/rebuild_cache.dir
